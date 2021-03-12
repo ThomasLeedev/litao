@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "b96b371fd158ff54",
+    "type": "split",
+    "children": [
+      {
+        "id": "fdadb7f078fc260a",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Inbox.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b02beb84940aaad3",
+    "type": "split",
+    "children": [
+      {
+        "id": "fc38aa0d9873d6fc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "78cd8806fb66147b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ca773554c949ef95",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#skdj",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 225
+  },
+  "right": {
+    "id": "f98221ee42f2932b",
+    "type": "split",
+    "children": [
+      {
+        "id": "c7519469b086a2eb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "909c1dadfcdb7c30",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Inbox.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9aeb460e623b44bd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "lastOpenFiles": [
+    "Inbox.md",
+    "Untitled.md",
+    "主题 README.md"
+  ]
+}
