@@ -6,14 +6,26 @@
       {
         "id": "fdadb7f078fc260a",
         "type": "leaf",
+        "dimension": 50,
         "active": true,
+        "state": {
+          "type": "graph",
+          "state": {}
+        },
+        "group": "18bc401b0d2e0109"
+      },
+      {
+        "id": "aab7e4273a875ccb",
+        "type": "leaf",
+        "dimension": 50,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Inbox.md",
-            "mode": "source"
+            "file": "001 Note/系统性知识/我的学习方法论.md",
+            "mode": "preview"
           }
-        }
+        },
+        "group": "18bc401b0d2e0109"
       }
     ],
     "direction": "vertical"
@@ -40,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#skdj",
+                "query": "tag:#刻意练习中",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -53,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 225
+    "width": 322
   },
   "right": {
     "id": "f98221ee42f2932b",
@@ -69,12 +81,11 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -88,16 +99,32 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "f4bf3ab77b4bcbe1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
   "lastOpenFiles": [
-    "Inbox.md",
-    "Untitled.md",
-    "主题 README.md"
+    "001 Note/系统性知识/我的学习方法论.md",
+    "000 Inbox/刘澜老师发言.md",
+    "000 Inbox/《学习之美》.md",
+    "004 每日记录/202003.md",
+    "README.md",
+    "001 Note/知识卡片/讲故事框架.md",
+    "002 Knowledge/主题/PM.md",
+    "002 Knowledge/主题/领导力.md",
+    "002 Knowledge/主题/一般管理.md",
+    "001 Note/指导性知识/学习时重要的思考.md"
   ]
 }
