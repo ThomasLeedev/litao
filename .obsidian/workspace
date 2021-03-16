@@ -6,26 +6,27 @@
       {
         "id": "fdadb7f078fc260a",
         "type": "leaf",
-        "dimension": 50,
         "active": true,
-        "state": {
-          "type": "graph",
-          "state": {}
-        },
-        "group": "18bc401b0d2e0109"
-      },
-      {
-        "id": "aab7e4273a875ccb",
-        "type": "leaf",
-        "dimension": 50,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "001 Note/系统性知识/我的学习方法论.md",
+            "file": "000 Inbox/《思辨与立场》.md",
+            "mode": "source"
+          }
+        },
+        "group": "7c35bb13354184f3"
+      },
+      {
+        "id": "9cf0a3bd82ee611c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "000 Inbox/《思辨与立场》.md",
             "mode": "preview"
           }
         },
-        "group": "18bc401b0d2e0109"
+        "group": "7c35bb13354184f3"
       }
     ],
     "direction": "vertical"
@@ -52,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#刻意练习中",
+                "query": "tag:#写作中",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,6 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "000 Inbox/《思辨与立场》.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,26 +107,27 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "000 Inbox/《思辨与立场》.md"
+              }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
   "lastOpenFiles": [
+    "000 Inbox/《思辨与立场》.md",
+    "001 Note/知识卡片/认知谦逊.md",
     "001 Note/系统性知识/我的学习方法论.md",
-    "000 Inbox/刘澜老师发言.md",
-    "000 Inbox/《学习之美》.md",
-    "004 每日记录/202003.md",
-    "README.md",
+    "001 Note/知识卡片/提供有参考价值、完整的信息.md",
     "001 Note/知识卡片/讲故事框架.md",
-    "002 Knowledge/主题/PM.md",
-    "002 Knowledge/主题/领导力.md",
-    "002 Knowledge/主题/一般管理.md",
-    "001 Note/指导性知识/学习时重要的思考.md"
+    "001 Note/指导性知识/学习时重要的思考.md",
+    "001 Note/知识卡片/Untitled.md",
+    "100 模板/知识卡片.md",
+    "100 模板/Untitled.md",
+    "Untitled.md"
   ]
 }
